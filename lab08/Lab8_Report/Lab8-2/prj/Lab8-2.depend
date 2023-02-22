@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1676576234 source:c:\users\win10\documents\bmtp_c\lab8\lab8-1\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesKucher.h"
+
+1676576328 c:\users\win10\documents\bmtp_c\lab8\lab8-1\moduleskucher.h
+
+1676576234 source:c:\users\win10\documents\bmtp_c\lab8\lab8-2\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesKucher.h"
+
+1676576328 c:\users\win10\documents\bmtp_c\lab8\lab8-2\moduleskucher.h
+
+1676584232 source:c:\users\win10\documents\bmtp_c\lab8\lab8-2\prj\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesKucher.h"
+
+1676584372 c:\users\win10\documents\bmtp_c\lab8\lab8-2\prj\moduleskucher.h
+
+1676584232 source:c:\users\win10\documents\bmtp_c\bmtpgit\lab8_report\lab8-2\prj\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesKucher.h"
+
+1676671778 c:\users\win10\documents\bmtp_c\bmtpgit\lab8_report\lab8-2\prj\moduleskucher.h
+
